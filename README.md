@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **robertsantos.dom@gmail.com**
 
-- ⚡ Fun fact **I'm 20 years old and I still play League of Legends**
+- ⚡ Fun fact **I got my username from my favorite Berserk chapter ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
