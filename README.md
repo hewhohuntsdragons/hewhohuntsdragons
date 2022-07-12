@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **The Odin Project**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, Python, and MERN Stack**
+- 🌱 I’m currently learning **HTML5, CSS3, JS, Python**
 
 - 💬 Ask me about **philosophy, movies, anime, tv series!**
 
