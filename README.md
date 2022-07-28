@@ -1,18 +1,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roberto Santos
 ======================================================================================================================================
 
-I'm an aspiring full-stack web developer currently studying in TUP - Manila
+I'm an aspiring full-stack web developer
 ---------------------------------------------------------------------------
 
-I've always been fascinated with tech: tinkering, modifying, enhancing, and failing at times are innate to me. Currently, I'm pursuing web development, particularly MongoDB, ExpressJS, ReactJS, and NodeJS, also known as the MERN Stack.
+I've always been fascinated with tech: tinkering, modifying, enhancing, and failing at times are innate to me. 
+
+Currently, I'm studying in Technological University of the Philippines to pursue web development, particularly with specilization in MongoDB, ExpressJS, ReactJS, and NodeJS, or better known as **the MERN Stack**.
+
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [robertsantos.dom@gmail.com](mailto:robertsantos.dom@gmail.com)
 *   🚀  I'm currently working on [The Odin Project](http://theodinproject.com)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on Open-Source Projects and Frameworks
-<a href="https://www.github.com/hewhohuntsdragons" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/hewhohuntsdragons?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<a href="https://www.github.com/hewhohuntsdragons" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/hewhohuntsdragons?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 <p align="left">
@@ -35,9 +39,9 @@ I've always been fascinated with tech: tinkering, modifying, enhancing, and fail
                     </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://discord.com/users/nights#4444" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/nights#4444" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/hewhohuntsdragons" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
